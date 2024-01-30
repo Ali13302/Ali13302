@@ -1,0 +1,1 @@
+I'm Ali khan, a passionate frantend developer based in Islamabad. My expertise lies in HTML, CSS, JS, Python, JavaScript, and various web technologies. I'm always excited to learn and explore new things in the world of programming.
